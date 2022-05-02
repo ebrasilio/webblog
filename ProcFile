@@ -1,1 +1,1 @@
-web::gunicor::app
+web:gunicor:app
